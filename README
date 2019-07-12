@@ -1,0 +1,9 @@
+# 环境配置
+pip install BeautifulSoup
+pip install lxml
+pip install requests
+
+功能介绍:
+    搜索漫画
+    下载漫画（批量异步）
+    断点续传
